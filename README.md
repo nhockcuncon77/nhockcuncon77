@@ -1,4 +1,4 @@
-  👋 Hi, I’m @nhockcuncon77
+  👋 Hi, I’m @nhockcuncon77(Viet Huynh)
   
   👀 My career interests are the applicability of computer science to cryptocurrency, computer vision, neural networks and artificial intelligence
   
