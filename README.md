@@ -1,4 +1,4 @@
-👋 Hi, I’m Viet Huynh
+👋 Hi, I’m Minh Viet Huynh
 
 👀 My career interests include computer science, software engineering, cryptocurrency, computer vision, neural networks, and artificial intelligence
 
