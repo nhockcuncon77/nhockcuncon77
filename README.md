@@ -7,4 +7,3 @@
 🌐I’m looking to collaborate on a computer vision,  software engineering, artificial intelligence, natural language processing and finance project.
 
   
-📫 How to reach me on LinkedIn: https://www.linkedin.com/in/viet-huynh-minh/, and by email: viethuynh1420@gmail.com
