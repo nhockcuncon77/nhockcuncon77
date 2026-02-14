@@ -6,4 +6,5 @@
 
 🌐I’m looking to collaborate on a computer vision,  software engineering, artificial intelligence, natural language processing and finance project.
 
-  
+<img src="https://github.com/nhockcuncon77/nhockcuncon77/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+
